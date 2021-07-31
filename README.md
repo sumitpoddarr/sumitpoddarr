@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="250" src="https://storage.cloudconvert.com/tasks/388016fe-6f1b-467a-a068-9f1590e746fc/image_premnathdey.mp4?AWSAccessKeyId=cloudconvert-production&Expires=1627810320&Signature=AKIZ7qPk3tw1ClrWdwgE3yLURXM%3D&response-content-disposition=inline%3B%20filename%3D%22image_premnathdey.mp4%22&response-content-type=video%2Fmp4">
+  <img width="250" src="https://www.clipartmax.com/png/middle/420-4201474_hand-emoji-clipart-transparent-background-emoji-png-transparent.png">
   <br><br>
   <samp>
     I'm Sumit Poddar currently a Final Year CSE student at <a href="http://gpadp.org.in/#/home">@GPA : Government Polytechnic Adityapur </a> and aspiring software developer:computer:. Interested in working on frontend,  backend, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
