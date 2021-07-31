@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="250" src="https://www.clipartmax.com/png/middle/420-4201474_hand-emoji-clipart-transparent-background-emoji-png-transparent.png">
+  <img width="250" src="#">
   <br><br>
   <samp>
     I'm Sumit Poddar currently a Final Year CSE student at <a href="http://gpadp.org.in/#/home">@GPA : Government Polytechnic Adityapur </a> and aspiring software developer:computer:. Interested in working on frontend,  backend, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
